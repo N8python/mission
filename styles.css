@@ -1,0 +1,19 @@
+body {background-color: #687681; color: white}
+.n8-hover-big {
+  transition: 0.2s ease-in-out;
+}
+
+.n8-hover-big:hover {
+  transform: scale(1.2);
+}
+.n8-nomargin {
+  margin: 0px;
+}
+.n8-coolfont {
+  font-family: serif;
+  font-weight: bolder;
+  font-style: oblique;
+}
+.w3-bar {
+  overflow: visible;
+}
